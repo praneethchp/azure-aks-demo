@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:23.11.1-alpine3.21
 LABEL maintainer="Gary A. Stafford <garystafford@rochester.rr.com>"
 ENV REFRESHED_AT 2017-11-18
 
